@@ -1,4 +1,5 @@
 # Flask Web App Tutorial
+# Made by Jan Kriz (L00177206)
 
 ## Setup & Installation
 
